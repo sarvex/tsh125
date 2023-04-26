@@ -1,6 +1,5 @@
-Idris
-======
-Trying to complete 125 projects from in Racket
+# Tsh
+Trying to complete 125 projects from in Tsh
 
 Numbers
 ---------
